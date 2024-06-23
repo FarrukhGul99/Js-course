@@ -1,0 +1,42 @@
+// const name = "farrukh";
+// const repoCount = 50;
+
+// console.log(name + repoCount + "value");
+
+// console.log(`hello my name is ${name} and my re count is ${repoCount}`);
+
+// const gameName = new String('pubg mobile')
+
+// console.log(gameName[0]);
+// console.log(gameName.__proto__);
+
+
+// console.log(gameName.length);
+// console.log(gameName.toUpperCase());
+// console.log(gameName.charAt(2));
+// console.log(gameName.indexOf('b'));
+
+// const newStringName = gameName.toString(0, 4)
+// console.log(newStringName);
+
+
+const gameName = "pubgmobile";
+// const newStringName = gameName.substring(0, 4);
+// console.log(newStringName);
+
+
+// const anotherString = gameName.slice(-10, 4)
+// console.log(anotherString);
+
+// const newString = "        farrukh       ";
+// console.log(newString);
+// console.log(newString.trim())
+
+// const url = "https://farrukh.com/farrukh%20";
+// console.log(url.replace('%20', '-'));
+
+
+// console.log(url.includes('farrukh')); // true
+// console.log(url.includes('gul'));   // false
+
+
